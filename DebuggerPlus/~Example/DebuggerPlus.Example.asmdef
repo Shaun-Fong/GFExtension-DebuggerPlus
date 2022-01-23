@@ -1,0 +1,16 @@
+{
+    "name": "DebuggerPlus.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ebd76c5d12625cf40a51a66493fa61b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
